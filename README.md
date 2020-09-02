@@ -10,7 +10,7 @@ a really really simple tampermonkey script that lets you use quora without havin
 
 > press the big "Install" button
 
-> press the secind big "Install" button
+> press the second big "Install" button
 
 congrats, you now dont have to put up with quora's login bullshit anymore
 
@@ -19,3 +19,6 @@ congrats, you now dont have to put up with quora's login bullshit anymore
 
 ## comparison in case ur fucking blind:
 ![anonquora beforeafter.png](https://i.imgur.com/BUUEYkd.png)
+
+
+###### btw sorry for any bad code i made this at like 3am
