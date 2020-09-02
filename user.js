@@ -6,7 +6,4 @@
 // @match        https://www.quora.com/*
 // @run-at       document-start
 // ==/UserScript==
-
-if (window.location.href.slice(-8) != "?share=1" && window.location.href.slice(0 , 31) != "https://www.quora.com/search?q=") {
-    window.location.replace(window.location.href + "?share=1");
-}
+if(window.location.href.slice(-8)!="?share=1"&&window.location.href.slice(0,31)!="https://www.quora.com/search?q="){window.location.replace(window.location.href+"?share=1");}
