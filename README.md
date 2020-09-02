@@ -6,12 +6,13 @@ a really really simple tampermonkey script that lets you use quora without havin
 
 > go to https://raw.githubusercontent.com/BL4Z3-CSGO/anonQuora/master/user.js , hit ctrl + s and press save
 
-> click the tampermonkey icon, press "Dashboard", go to the tab "Utilities" and next to file and import, press the "Browse" button
+> click the tampermonkey icon, press "Dashboard", go to the tab "Utilities"
 
-> now go ahead and look for the file you just downloaded (probably in downloads), and press "Open"
+> go to "Install from URL" and paste this: `https://raw.githubusercontent.com/BL4Z3-CSGO/anonQuora/master/user.js`
 
 > press the big "Install" button
 
+> press the secind big "Install" button
 
 congrats, you now dont have to put up with quora's login bullshit anymore
 
