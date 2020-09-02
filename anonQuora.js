@@ -4,6 +4,7 @@
 // @description  lets you use quora without having to log in
 // @author       felix12340000
 // @match        https://www.quora.com/*
+// @source       GitHub ( https://github.com/BL4Z3-CSGO/anonQuora/ )
 // ==/UserScript==
 
 if (window.location.href.slice(-8) != "?share=1") {
