@@ -4,8 +4,6 @@ a really really simple tampermonkey script that lets you use quora without havin
 ## install instructions:
 > get tampermonkey
 
-> go to https://raw.githubusercontent.com/BL4Z3-CSGO/anonQuora/master/user.js , hit ctrl + s and press save
-
 > click the tampermonkey icon, press "Dashboard", go to the tab "Utilities"
 
 > go to "Install from URL" and paste this: `https://raw.githubusercontent.com/BL4Z3-CSGO/anonQuora/master/user.js`
